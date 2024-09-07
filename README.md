@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I'm Mustafe!
+🎓 Studying CS at Sunway University.
+💻 Currently working on a small startup.
+🌱 Learning Python, Unity, and frontend development.
+🚀 Passionate about tech, coding, community service, youth empowerment and startups.
+🤝 Open to collaborations in tech and innovation!
 
 <!--
 **Musteab/musteab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
