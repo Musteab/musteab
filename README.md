@@ -68,5 +68,5 @@
   
   <br><br>
   <code>[ CONNECTION TERMINATED ]</code><br><br>
-  <b>[ <a href="mailto:your-email@example.com">Establish Secure Comms (Email)</a> ]</b> | <b>[ <a href="https://linkedin.com/in/your-linkedin">Decrypt Network (LinkedIn)</a> ]</b>
+  <b>[ <a href="muste2345@gmail.com">Establish Secure Comms (Email)</a> ]</b> | <b>[ <a href="www.linkedin.com/in/mustafe-ahmed-421006319">Decrypt Network (LinkedIn)</a> ]</b>
 </div>
