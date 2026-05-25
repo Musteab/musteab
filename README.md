@@ -1,49 +1,84 @@
+<!-- ╔═══════════════════ BOARDING PASS ═══════════════════╗ -->
 <div align="center">
 
-# `dossier.json`
+<table width="100%">
+<tr>
+<td width="65%" align="left">
 
-<img src="https://i.redd.it/7td508133w8d1.png" width="140" style="border-radius: 14px;" />
+### &nbsp;✈&nbsp; METROPOLIS AIRWAYS
+**`BOARDING PASS`** · *Class of 2027*
 
-<sub>ISSUED BY · FORTRESS OF SOLITUDE &nbsp;|&nbsp; CLEARANCE · PUBLIC &nbsp;|&nbsp; EXP · 2027</sub>
+</td>
+<td width="35%" align="right">
+
+**FLIGHT** &nbsp; `MA · 2027`<br>
+<sub>`▌▌█▌▌█▌▌▌█▌█▌▌█▌▌█▌█▌▌█`</sub>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" width="28%">
+
+`PASSENGER`<br>
+**MUSTAFE AHMED**<br>
+<sub><code>@Musteab</code></sub>
+
+</td>
+<td align="center" width="28%">
+
+`ROUTE`<br>
+**ADD ✈ KUL**<br>
+<sub>Addis → Kuala Lumpur</sub>
+
+</td>
+<td align="center" width="22%">
+
+`GATE`<br>
+**SUNWAY**<br>
+<sub>Computer Science</sub>
+
+</td>
+<td align="right" width="22%">
+
+`SEAT`<br>
+**27A**<br>
+<sub>Builder Class</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>──────────────────────────  ✂  ──────────────────────────</sub>
 
 <a href="https://github.com/Musteab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=900&color=E62429&center=true&vCenter=true&width=560&lines=Truth%2C+Justice%2C+and+a+well-typed+API.;Shipping+the+power+behind+the+pixels.;Powered+by+matcha+and+stubbornness." alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=E62429&center=true&vCenter=true&width=620&lines=Now+boarding%3A+full-stack+engineering.;Truth%2C+justice%2C+and+a+well-typed+API.;Powered+by+matcha+and+stubbornness." alt="" />
 </a>
 
 </div>
 
 ---
 
-```json
-{
-  "alias":        "Musteab",
-  "civilian_id":  "Mustafe Ahmed",
-  "home_base":    "Kuala Lumpur, MY",
-  "affiliation":  "Sunway University — CS, Class of '27",
-  "current_op":   "Full-stack tools that solve real problems",
-  "stack": {
-    "frontline":  ["TypeScript", "React", "Next.js", "Tailwind"],
-    "backline":   ["Python", "Django", "Node", "Postgres", "Docker"],
-    "side_ops":   ["Unity", "Godot"]
-  },
-  "fuel":         "matcha — premium grade only",
-  "off_duty":     ["traveling", "anime", "long flights"],
-  "weakness":     "kryptonite-flavored deadlines",
-  "rule_one":     "leave the codebase better than you found it"
-}
-```
+### 🧳 &nbsp; `CARGO MANIFEST`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,django,nodejs,postgres,mongodb,docker,git,unity&theme=dark" alt="Tech Stack" />
+
+<sub><i>Carry-on only — no dead frameworks allowed.</i></sub>
+
+</div>
 
 ---
 
-### `> stamps --field-deployments`
+### 📡 &nbsp; `IN-FLIGHT LOG`
 
-| Stamp | Op | Status |
-|:---:|:---|:---:|
-| `TAB` | TableTap — full-stack restaurant ops platform | 🟢 active |
-| `DEV` | Personal site / lab experiments | 🟢 active |
-| `GME` | Unity & Godot side ops | 🟡 background |
-
-<sub>Replace these rows with your real repos — keeps the section honest and easy to update.</sub>
+- 🛠 &nbsp; **Currently building** → TableTap — full-stack restaurant ops platform (Django + Next.js)
+- 📚 &nbsp; **Studying** → distributed systems, real-time WebSockets, clean architecture
+- 🎮 &nbsp; **Side ops** → Unity & Godot experiments when the laptop fan needs a break
+- 🍵 &nbsp; **Fuel status** → matcha tank: full
 
 ---
 
@@ -51,32 +86,51 @@
 <tr>
 <td width="50%" valign="top">
 
-### `> render --metropolis`
-<img src="https://github-readme-stats.vercel.app/api?username=Musteab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=FFD700&text_color=C9D1D9" width="100%" />
+### 📊 &nbsp; `IN-FLIGHT STATS`
+<img src="https://github-readme-stats.vercel.app/api?username=Musteab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=FFD700&text_color=C9D1D9&ring_color=0066CC" width="100%" />
 
 </td>
 <td width="50%" valign="top">
 
-### `> trace --flight-path`
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Musteab&bg_color=0D1117&color=FFD700&line=E62429&point=0066CC&area=true&hide_border=true" width="100%" />
+### 🔤 &nbsp; `LANGUAGE TOWER`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musteab&layout=compact&hide_border=true&bg_color=0D1117&title_color=E62429&text_color=C9D1D9&langs_count=8" width="100%" />
 
 </td>
 </tr>
 </table>
 
-### `> render --skyline`
-<!-- Isometric contribution skyline (Metropolis). Requires the metrics workflow below. -->
-<img src="https://raw.githubusercontent.com/Musteab/Musteab/main/metrics.plugin.isocalendar.svg" width="100%" />
+---
+
+### 🌆 &nbsp; `FLIGHT PATH OVER METROPOLIS`
+
+<div align="center">
+
+<!-- 3D contribution skyline — auto-generated daily by the workflow below -->
+<img src="https://raw.githubusercontent.com/Musteab/Musteab/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### `> open_comms`
+### 🛬 &nbsp; `ARRIVAL GATE`
 
-<a href="mailto:muste2345@gmail.com"><img src="https://img.shields.io/badge/Signal-E62429?style=for-the-badge&logo=protonmail&logoColor=FFD700" /></a>
-<a href="https://www.linkedin.com/in/mustafe-ahmed-421006319"><img src="https://img.shields.io/badge/Frequency-0066CC?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
+<a href="mailto:muste2345@gmail.com">
+  <img src="https://img.shields.io/badge/SIGNAL-E62429?style=for-the-badge&logo=protonmail&logoColor=FFD700" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mustafe-ahmed-421006319">
+  <img src="https://img.shields.io/badge/FREQUENCY-0066CC?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
+</a>
+&nbsp;
+<a href="https://github.com/Musteab">
+  <img src="https://img.shields.io/badge/HOME_BASE-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
+</a>
 
-<sub><i>"There is a superhero in all of us — we just need the courage to put on the cape." — Reeve</i></sub>
+<br><br>
+
+<sub>`▌▌█▌▌▌█▌▌█▌█▌▌█▌▌█▌█▌▌█▌▌█▌▌▌█▌▌█▌█▌▌█▌▌█▌█▌▌█`</sub><br>
+<sub><i>END OF BOARDING PASS · Thank you for flying Metropolis Airways</i></sub>
 
 </div>
