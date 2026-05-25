@@ -1,0 +1,30 @@
+name: Generate 3D Contribution Skyline
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate skyline
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Musteab
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh 3D skyline"
+          git push
