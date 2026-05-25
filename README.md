@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://i.redd.it/7td508133w8d1.png" width="180" style="border-radius: 50%; border: 2px solid #00FF00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.4);" />
+</div>
+
 <!-- ╔═══════════════════ BOARDING PASS ═══════════════════╗ -->
 <div align="center">
 
