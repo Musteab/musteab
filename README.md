@@ -88,16 +88,30 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 📊 &nbsp; `IN-FLIGHT STATS`
-<img src="https://github-readme-stats.vercel.app/api?username=Musteab&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E62429&icon_color=FFD700&text_color=C9D1D9&ring_color=0066CC" width="100%" />
+<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="100%" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🔤 &nbsp; `LANGUAGE TOWER`
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musteab&layout=compact&hide_border=true&bg_color=0D1117&title_color=E62429&text_color=C9D1D9&langs_count=8" width="100%" />
+<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 📡 &nbsp; `TRANSMISSION LOG`
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="100%" />
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ⏰ &nbsp; `FLIGHT WINDOW`
+<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="100%" />
 
 </td>
 </tr>
