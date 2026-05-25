@@ -58,7 +58,7 @@
 <sub>──────────────────────────  ✂  ──────────────────────────</sub>
 
 <a href="https://github.com/Musteab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=E62429&center=true&vCenter=true&width=620&lines=Now+boarding%3A+full-stack+engineering.;Truth%2C+justice%2C+and+a+well-typed+API.;Powered+by+matcha+and+stubbornness." alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=E62429&center=true&vCenter=true&width=620&lines=Now+boarding%3A+full-stack+engineering.;Truth%2C+justice%2C+and+a+well-typed+API." alt="" />
 </a>
 
 </div>
@@ -88,30 +88,12 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
 
-### 📊 &nbsp; `IN-FLIGHT STATS`
-<img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="100%" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🔤 &nbsp; `LANGUAGE TOWER`
-<img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="100%" />
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top" align="center">
 
 ### 📡 &nbsp; `TRANSMISSION LOG`
 <img src="./profile-summary-card-output/radical/3-stats.svg" width="100%" />
 
-</td>
-<td width="50%" valign="top" align="center">
-
-### ⏰ &nbsp; `FLIGHT WINDOW`
-<img src="./profile-summary-card-output/radical/4-productive-time.svg" width="100%" />
 
 </td>
 </tr>
