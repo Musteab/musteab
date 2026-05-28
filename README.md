@@ -1,15 +1,25 @@
 <div align="center">
+
 <img src="https://i.redd.it/7td508133w8d1.png" width="140" style="border-radius: 50%;" />
+
 ### Hey, I'm Mustafe 👋
+
 CS @ Sunway University · Class of '27  
 Full-stack dev building things that ship.
+
 </div>
+
 ---
-- 🛠 **Currently building**  [TableTap](https://github.com/TableTapET), a full-stack restaurant ops platform (Django + Next.js)
-- 📚 **Learning**  distributed systems, real-time WebSockets, clean architecture
-- 🎮 **Off-duty**  Unity / Godot side projects, anime, matcha
+
+- 🛠 **Currently building** — [TableTap](https://github.com/TableTapET), a full-stack restaurant ops platform (Django + Next.js)
+- 📚 **Learning** — distributed systems, real-time WebSockets, clean architecture
+- 🎮 **Off-duty** — Unity / Godot side projects, anime, matcha
+
 ### Stack
+
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,django,nodejs,postgres,mongodb,docker,git,unity&theme=dark" />
+
+
 ### Contact
 
 <a href="mailto:muste2345@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
