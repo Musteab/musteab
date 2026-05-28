@@ -2,69 +2,6 @@
 <img src="https://i.redd.it/7td508133w8d1.png" width="180" style="border-radius: 50%; border: 2px solid #00FF00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.4);" />
 </div>
 
-<!-- ╔═══════════════════ BOARDING PASS ═══════════════════╗ -->
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="65%" align="left">
-
-### &nbsp;✈&nbsp; METROPOLIS AIRWAYS
-**`BOARDING PASS`** · *Class of 2027*
-
-</td>
-<td width="35%" align="right">
-
-**FLIGHT** &nbsp; `MA · 2027`<br>
-<sub>`▌▌█▌▌█▌▌▌█▌█▌▌█▌▌█▌█▌▌█`</sub>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="left" width="28%">
-
-`PASSENGER`<br>
-**MUSTAFE AHMED**<br>
-<sub><code>@Musteab</code></sub>
-
-</td>
-<td align="center" width="28%">
-
-`ROUTE`<br>
-**ADD ✈ KUL**<br>
-<sub>Addis → Kuala Lumpur</sub>
-
-</td>
-<td align="center" width="22%">
-
-`GATE`<br>
-**SUNWAY**<br>
-<sub>Computer Science</sub>
-
-</td>
-<td align="right" width="22%">
-
-`SEAT`<br>
-**27A**<br>
-<sub>Builder Class</sub>
-
-</td>
-</tr>
-</table>
-
-<sub>──────────────────────────  ✂  ──────────────────────────</sub>
-
-<a href="https://github.com/Musteab">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=900&color=E62429&center=true&vCenter=true&width=620&lines=Now+boarding%3A+full-stack+engineering.;Truth%2C+justice%2C+and+a+well-typed+API." alt="" />
-</a>
-
-</div>
-
----
-
 ### 🧳 &nbsp; `CARGO MANIFEST`
 
 <div align="center">
