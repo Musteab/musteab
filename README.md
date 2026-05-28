@@ -1,59 +1,30 @@
 <div align="center">
-<img src="https://i.redd.it/7td508133w8d1.png" width="180" style="border-radius: 50%; border: 2px solid #00FF00; box-shadow: 0 0 15px rgba(0, 255, 0, 0.4);" />
-</div>
 
-### 🧳 &nbsp; `CARGO MANIFEST`
+<img src="https://i.redd.it/7td508133w8d1.png" width="140" style="border-radius: 50%;" />
 
-<div align="center">
+### Hey, I'm Mustafe 👋
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,django,nodejs,postgres,mongodb,docker,git,unity&theme=dark" alt="Tech Stack" />
-
-<sub><i>Carry-on only — no dead frameworks allowed.</i></sub>
+CS @ Sunway University · Class of '27  
+Full-stack dev building things that ship.
 
 </div>
 
 ---
 
-### 📡 &nbsp; `IN-FLIGHT LOG`
+- 🛠 **Currently building** — [TableTap](https://github.com/TableTapET), a full-stack restaurant ops platform (Django + Next.js)
+- 📚 **Learning** — distributed systems, real-time WebSockets, clean architecture
+- 🎮 **Off-duty** — Unity / Godot side projects, anime, matcha
 
-- 🛠 &nbsp; **Currently building** → TableTap — full-stack restaurant ops platform (Django + Next.js)
-- 📚 &nbsp; **Studying** → distributed systems, real-time WebSockets, clean architecture
-- 🎮 &nbsp; **Side ops** → Unity & Godot experiments when the laptop fan needs a break
-- 🍵 &nbsp; **Fuel status** → matcha tank: full
+### Stack
 
----
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,django,nodejs,postgres,mongodb,docker,git,unity&theme=dark" />
 
-<table width="100%">
-<tr>
+### Stats
 
-<td width="50%" valign="top" align="center">
+<img src="./profile-summary-card-output/radical/3-stats.svg" width="450" />
 
-### 📡 &nbsp; `TRANSMISSION LOG`
-<img src="./profile-summary-card-output/radical/3-stats.svg" width="100%" />
+### Contact
 
-
-</td>
-</tr>
-</table>
-
----
-
-
-<a href="mailto:muste2345@gmail.com">
-  <img src="https://img.shields.io/badge/SIGNAL-E62429?style=for-the-badge&logo=protonmail&logoColor=FFD700" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mustafe-ahmed-421006319">
-  <img src="https://img.shields.io/badge/FREQUENCY-0066CC?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
-</a>
-&nbsp;
-<a href="https://github.com/Musteab">
-  <img src="https://img.shields.io/badge/HOME_BASE-FFD700?style=for-the-badge&logo=github&logoColor=000000" />
-</a>
-
-<br><br>
-
-<sub>`▌▌█▌▌▌█▌▌█▌█▌▌█▌▌█▌█▌▌█▌▌█▌▌▌█▌▌█▌█▌▌█▌▌█▌█▌▌█`</sub><br>
-<sub><i>END OF BOARDING PASS · Thank you for flying Metropolis Airways</i></sub>
-
-</div>
+<a href="mailto:muste2345@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mustafe-ahmed-421006319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Musteab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
