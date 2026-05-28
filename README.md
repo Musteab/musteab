@@ -101,20 +101,6 @@
 
 ---
 
-### 🌆 &nbsp; `FLIGHT PATH OVER METROPOLIS`
-
-<div align="center">
-
-<!-- 3D contribution skyline — auto-generated daily by the workflow below -->
-<img src="https://raw.githubusercontent.com/Musteab/Musteab/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🛬 &nbsp; `ARRIVAL GATE`
 
 <a href="mailto:muste2345@gmail.com">
   <img src="https://img.shields.io/badge/SIGNAL-E62429?style=for-the-badge&logo=protonmail&logoColor=FFD700" />
