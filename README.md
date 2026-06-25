@@ -12,7 +12,7 @@ Full-stack dev building things that are fun or make money or both.
 ---
 
 - 🛠 **Currently building** [TableTap](https://github.com/TableTapET), cool startup invest once we go ipo 
-- 📚 **Learning** —distributed systems, real-time WebSockets, clean architecture and claude prompting
+- 📚 **Learning** distributed systems, real-time WebSockets, clean architecture and claude prompting
 - 🎮 **Off-duty** Unity / Godot side projects, anime, matcha
 
 ### Stack
