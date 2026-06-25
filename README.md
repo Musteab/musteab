@@ -5,15 +5,15 @@
 ### Hey, I'm Mustafe 👋
 
 CS @ Sunway University · Class of '27  
-Full-stack dev building things that ship.
+Full-stack dev building things that are fun or make money or both.
 
 </div>
 
 ---
 
-- 🛠 **Currently building** — [TableTap](https://github.com/TableTapET), a full-stack restaurant ops platform (Django + Next.js)
-- 📚 **Learning** — distributed systems, real-time WebSockets, clean architecture
-- 🎮 **Off-duty** — Unity / Godot side projects, anime, matcha
+- 🛠 **Currently building** [TableTap](https://github.com/TableTapET), cool startup invest once we go ipo 
+- 📚 **Learning** —distributed systems, real-time WebSockets, clean architecture and claude prompting
+- 🎮 **Off-duty** Unity / Godot side projects, anime, matcha
 
 ### Stack
 
