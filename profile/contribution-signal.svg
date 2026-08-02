@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">1,105 GitHub contributions so far in 2026</title>
+  <desc id="description">Mustafe's current-year contribution total, refreshed from his public GitHub contribution graph.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117" />
+      <stop offset="1" stop-color="#101C2B" />
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2D74B2" />
+      <stop offset="0.58" stop-color="#58A6FF" />
+      <stop offset="0.82" stop-color="#E63946" />
+      <stop offset="1" stop-color="#F4D35E" />
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#58A6FF" stroke-opacity="0.055" />
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="178" rx="16" fill="url(#background)" stroke="#30363D" stroke-width="2" />
+  <rect x="2" y="2" width="896" height="176" rx="15" fill="url(#grid)" />
+  <rect x="0" y="174" width="900" height="6" rx="3" fill="url(#signal)" />
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="38" y="105" fill="#F4D35E" font-size="66" font-weight="800" letter-spacing="-3">1,105</text>
+    <text x="40" y="140" fill="#8B949E" font-size="15" letter-spacing="1.8">SO FAR THIS YEAR</text>
+
+    <text x="472" y="73" fill="#C9D1D9" font-size="25" font-weight="700" letter-spacing="1.8">CONTRIBUTIONS</text>
+    <text x="473" y="99" fill="#8B949E" font-size="13" letter-spacing="1.1">PUBLIC + PRIVATE AGGREGATE</text>
+  </g>
+
+  <g transform="translate(715 33)">
+    <circle cx="89" cy="27" r="22" fill="#F4D35E" opacity="0.92" />
+    <path d="M0 137V88h27v49zm34 0V62h31v75zm38 0V79h23v58zm30 0V42h36v95zm43 0V72h28v65z" fill="#1F4068" />
+    <path d="M34 137V93h31v44zm68 0V83h36v54z" fill="#2D74B2" />
+    <path d="M75 137v-31h19v31zm97 0v-42h13v42z" fill="#E63946" />
+    <g fill="#F4D35E" opacity="0.9">
+      <rect x="43" y="72" width="6" height="6" />
+      <rect x="53" y="72" width="6" height="6" />
+      <rect x="112" y="56" width="6" height="6" />
+      <rect x="122" y="56" width="6" height="6" />
+      <rect x="112" y="68" width="6" height="6" />
+      <rect x="122" y="68" width="6" height="6" />
+    </g>
+  </g>
+</svg>

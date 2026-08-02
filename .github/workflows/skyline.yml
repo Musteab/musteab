@@ -1,30 +1,57 @@
-name: Generate 3D Contribution Skyline
+name: GitHub Profile Visuals
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # daily
+    # 03:00 in Malaysia (UTC+8)
+    - cron: "0 19 * * *"
   workflow_dispatch:
   push:
-    branches: ["main"]
+    branches:
+      - main
+    paths:
+      - README.md
+      - assets/**
+      - .github/profile-3d-settings.json
+      - .github/scripts/**
+      - .github/workflows/skyline.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: true
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
 
-      - name: Generate skyline
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build contribution signal
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+        run: node .github/scripts/generate-contribution-signal.mjs
+
+      - name: Build contribution skyline
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Musteab
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
 
-      - name: Commit & push
+      - name: Commit refreshed visuals
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh 3D skyline"
+          git add profile/contribution-signal.svg profile-3d-contrib/profile-night-view.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: refresh profile visuals"
           git push
