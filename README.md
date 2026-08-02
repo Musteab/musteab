@@ -1,27 +1,71 @@
-<div align="center">
+<!-- Profile repository: Musteab/musteab -->
 
-<img src="https://i.redd.it/7td508133w8d1.png" width="140" style="border-radius: 50%;" />
+<p align="center">
+  <img
+    src="./assets/proudunc-banner.png"
+    alt="Comic panel saying: I'm so proud of you."
+    width="100%"
+  />
+</p>
 
-### Hey, I'm Mustafe 👋
+<h1 align="center">Mustafe Abdilahi Ahmed</h1>
 
-CS @ Sunway University · Class of '27  
-Full-stack dev building things that are fun or make money or both.
+<p align="center">
+  <code>METROPOLIS BUILD LOG // ISSUE '27</code>
+</p>
 
-</div>
+<p align="center">
+  Full-stack &amp; AI engineer · CS @ Sunway University · Co-founder of
+  <a href="https://github.com/TableTapET">TableTap</a>
+</p>
 
----
+<p align="center">
+  <a href="mailto:muste2345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mustafe-ahmed-421006319">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🛠 **Currently building** [TableTap](https://github.com/TableTapET), cool startup invest once we go ipo 
-- 📚 **Learning** distributed systems, real-time WebSockets, clean architecture and claude prompting
-- 🎮 **Off-duty** Unity / Godot side projects, anime, matcha
+> I build production systems where correctness can be measured—not asserted.
+
+### Selected builds
+
+- **[TableTap](https://github.com/TableTapET)** — Multi-tenant cloud EPOS working with **10+ restaurant partners**, with guest-to-kitchen order propagation in **under one second**.<br />
+  `Django` · `Next.js` · `PostgreSQL` · `MongoDB` · `Redis` · `Docker`
+
+- **[PulseOps](https://github.com/Musteab/pulseops)** — Fault-injected data platform that accounted for **250/250 test faults**; a 5,022-event Pub/Sub run reproduced the offline result at **67 ms p95** with zero failures.<br />
+  `Python` · `BigQuery` · `dbt` · `Pub/Sub` · `Terraform`
+
+- **[rust-analyzer PR #22996](https://github.com/rust-lang/rust-analyzer/pull/22996)** — Fixed multiline `rust-toolchain.toml` component detection upstream and added six regression tests.<br />
+  `TypeScript` · `TOML` · `VS Code Extension API`
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,py,django,nodejs,postgres,mongodb,docker,git,unity&theme=dark" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,py,react,nextjs,django,nodejs,postgres,mongodb,redis,docker,terraform,gcp,aws,git&theme=dark&perline=14"
+    alt="TypeScript, Python, React, Next.js, Django, Node.js, PostgreSQL, MongoDB, Redis, Docker, Terraform, Google Cloud, AWS, and Git"
+  />
+</p>
 
+### Contribution signal
 
-### Contact
+<p align="center">
+  <img
+    src="./profile/contribution-signal.svg"
+    alt="Mustafe's GitHub contributions so far this year"
+    width="100%"
+  />
+</p>
 
-<a href="mailto:muste2345@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mustafe-ahmed-421006319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Musteab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+### Metropolis, one commit at a time
+
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-night-view.svg"
+    alt="Mustafe's contribution activity rendered as a 3D city skyline"
+    width="100%"
+  />
+</p>
