@@ -11,7 +11,7 @@
 <h1 align="center">Muste</h1>
 
 <p align="center">
-  <code>METROPOLIS BUILD LOG // ISSUE '27</code>
+  <code>meow moew BUILD LOG // ver '27</code>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
   />
 </p>
 
-### Metropolis, one commit at a time
+### looks cool ryt
 
 <p align="center">
   <img
